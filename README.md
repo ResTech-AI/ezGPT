@@ -71,4 +71,6 @@ Whether it's optimizing resource allocation, streamlining workflow processes, or
 * Sales and marketing
 * Research and development
 
-**[![Contact us](https://restechai.com/favicon/favicon.ico)](https://www.restechai.com) today to learn more about how ResTech AI Corporation can help you unlock the power of Generative AI.**
+**Contact us today to learn more about how ResTech AI Corporation can help you unlock the power of Generative AI.**
+
+[![ResTech AI Logo](https://restechai.com/favicon/favicon.ico)](https://www.restechai.com) 
