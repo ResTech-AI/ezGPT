@@ -1,4 +1,4 @@
-<img src="ezGPT-gh.png" alt="ezGPT™ Logo" title="ResTech AI ezGPT™ Platform" width="100%" height="250em">
+<img src="assets/images/ezGPT-gh.png" alt="ezGPT™ Logo" title="ResTech AI ezGPT™ Platform" width="100%" height="250em">
    
 **Unlock the power of Generative AI with ResTech AI Corporation, the rapid AI innovation platform and pre-built industry solutions that helps you achieve remarkable results, privately and responsibly.**
 
