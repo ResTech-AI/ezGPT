@@ -1,4 +1,4 @@
-<img src="assets/images/ezGPT-gh.png" alt="ezGPT™ Logo" title="ResTech AI ezGPT™ Platform" width="100%" height="250em">
+<img src="https://www.ResTechAI.com/images/ezGPT-gh.png" alt="ezGPT™ Logo" title="ResTech AI ezGPT™ Platform" width="100%" height="250em">
    
 **Unlock the power of Generative AI with ResTech AI Corporation, the rapid AI innovation platform and pre-built industry solutions that helps you achieve remarkable results, privately and responsibly.**
 
@@ -71,6 +71,4 @@ Whether it's optimizing resource allocation, streamlining workflow processes, or
 * Sales and marketing
 * Research and development
 
-**[Contact us](https://www.restechai.com) today to learn more about how ResTech AI Corporation can help you unlock the power of Generative AI.**
-
-[![ResTech AI Logo](https://restechai.com/favicon/favicon.ico)](https://www.restechai.com) 
+<span> <a href="https://www.ResTechAI.com/"> <img alt-text="ResTech AI logo" src="https://www.ResTechAI.com/images/logo.png" title="Learn ResTech AI - ezGPT™" height="25rem" width="25rem"> Contact us</span> today to learn more about how ResTech AI Corporation can help you unlock the power of Generative AI.
