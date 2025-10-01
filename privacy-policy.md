@@ -1,6 +1,6 @@
 # ResTech AI Privacy Policy
 
-This policy was last updated on Nov 21, 2024.
+This policy was last updated on Oct 01, 2025.
 
 We prioritize the protection of your privacy. This Privacy Policy explains our practices regarding the collection, use and disclosure of information that we receive through our Services. 
 This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. 
